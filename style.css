@@ -229,27 +229,27 @@ header ul li a {
         flex-direction: column;
         margin-top: 80px;
     }
-    .context .textBox {
+    .content .textBox {
         position: relative;
         max-width: 100%;
         padding-right: 20px;
     }
-    .context .textBox h2 {
+    .content .textBox h2 {
         font-size: 3em;
     }
-    .context .textBox a {
+    .content .textBox a {
         font-size: 14px;
         padding: 8px 15px;
     }
-    .context .imgBox {
+    .content .imgBox {
         width: 100%;
         display: flex;
         padding-right: 0;
         margin-top: 50px;
         justify-content: center;
     }
-    .context .imgBox img {
-        max-width: 150px;
+    .content .imgBox img {
+        max-width: 300px;
     }
     .thumb li img {
         max-width: 30px;
